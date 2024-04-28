@@ -1,0 +1,19 @@
+.a{
+    background-color:rgb(179, 179, 243);
+}
+.b{
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius:25px;
+    height:300px;
+    width:300px
+}
+.d{
+    border:2px solid black;
+    height:350px;
+    width:350px;
+}
+.f{
+    border:2px solid black;
+}
